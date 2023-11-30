@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://athletedurable.com/k17485ezy?key=f35cbff0df9370129887831b621fcc50`
+					`https://urlzs.com/o9rNE`
 				}`,
 			},
 		};
