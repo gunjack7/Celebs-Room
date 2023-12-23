@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`http://tinyurl.com/26ayjuuk`
+					`https://rb.gy/xjspsl`
 				}`,
 			},
 		};
